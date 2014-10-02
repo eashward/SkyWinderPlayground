@@ -1,13 +1,3 @@
-SkyWinder's playgrounnd for tests.
-
-```swift
-import UIKit
-```
-
-**Let's GO!**
-> My table view  test example:
-
-```swift
 
 class DataSource: NSObject, UITableViewDataSource{
     
@@ -40,4 +30,3 @@ let tableView = UITableView(frame: CGRect(x: 0, y: 0, width: 320, height: 240), 
 
 tableView.dataSource = ds
 tableView.reloadData()
-```
