@@ -41,3 +41,9 @@ let tableView = UITableView(frame: CGRect(x: 0, y: 0, width: 320, height: 240), 
 tableView.dataSource = ds
 tableView.reloadData()
 ```
+
+# Place to code:
+
+```
+// print here:
+```
